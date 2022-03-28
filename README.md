@@ -6,12 +6,11 @@ My skills and interests range from IT Innovation to arts and activism. I am also
 - 🔭 I’m currently working as Software Engineer
 - 🌱 I’m currently learning more about Blockchain and Web3
 
-You can book a meeting or get in touch through any of the social links below.
+You can book a meeting   <a href="https://calendly.com/kndrio/" target="_blank">
+     <img alt="Schedule an appointment" src="https://img.shields.io/badge/-Calendar-007ACC?style=flat-square" />
+  </a> or get in touch through any of the social links below.
 
 <p>
-  <a href="https://calendly.com/kndrio/" target="_blank">
-     <img alt="Schedule an appointment" src="https://img.shields.io/badge/-Calendar-007ACC?style=flat-square" />
-  </a>
    <a href="https://www.linkedin.com/in/kennedycarvalho/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
