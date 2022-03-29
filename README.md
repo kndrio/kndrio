@@ -13,8 +13,8 @@ My skills and interests range from IT Innovation to arts and activism. I am also
     </a>
 </div>
 
-You can book a meeting   <a href="https://calendly.com/kndrio/" target="_blank">
-     <img alt="Schedule an appointment" src="https://img.shields.io/badge/-Calendar-007ACC?style=flat-square" />
+You can book a <a href="https://calendly.com/kndrio/" target="_blank">
+     <img alt="Schedule an appointment" src="https://img.shields.io/badge/-Meeting-007ACC?style=flat-square" />
   </a> or get in touch through any of the social links below.
 
 <p>
