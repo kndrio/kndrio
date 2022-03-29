@@ -6,9 +6,12 @@ My skills and interests range from IT Innovation to arts and activism. I am also
 - 🔭 I’m currently working as Software Engineer
 - 🌱 I’m currently learning more about Blockchain and Web3
 
+<div align="center"><br>
+    <a href="https://github.com/kndrio">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kndrio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kndrio&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
-
+    </a>
+</div>
 
 You can book a meeting   <a href="https://calendly.com/kndrio/" target="_blank">
      <img alt="Schedule an appointment" src="https://img.shields.io/badge/-Calendar-007ACC?style=flat-square" />
